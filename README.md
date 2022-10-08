@@ -6,9 +6,9 @@ You’re thinking about moving to Hawaii and opening a business combining a surf
 
 The results are below. In the stats you will see the following:
 
- Markup : *mean temperatures for June (75) and december (71) are only 4 degrees different 
+ Markup : _*mean temperatures for June (75) and december (71) are only 4 degrees different 
           *maximum temperatures are even closer with 85 in June and 83 in December
-          *biggest difference: minimum temperatures with 64 in June and 56 in December 
+          *biggest difference: minimum temperatures with 64 in June and 56 in December _
 
 This may mean that the shop could close earlier in the winter since it will be colder at night.
 
@@ -20,8 +20,3 @@ This may mean that the shop could close earlier in the winter since it will be c
 ## Summary
 
 Looking at the temperatures for 2 months during different times of the year does provide good information. But deciding to leave your home and move to Hawaii based solely on this information may be a bit risky. I would suggest looking at the temperatures and precipitation for all 12 months, both separately and as a whole.
-
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
