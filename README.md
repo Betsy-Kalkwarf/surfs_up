@@ -6,9 +6,9 @@ You’re thinking about moving to Hawaii and opening a business combining a surf
 
 The results are below. In the stats you will see the following:
 
- Markup : _*mean temperatures for June (75) and december (71) are only 4 degrees different 
-          *maximum temperatures are even closer with 85 in June and 83 in December
-          *biggest difference: minimum temperatures with 64 in June and 56 in December _
+*mean temperatures for June (75) and december (71) are only 4 degrees different 
+*maximum temperatures are even closer with 85 in June and 83 in December
+*biggest difference: minimum temperatures with 64 in June and 56 in December
 
 This may mean that the shop could close earlier in the winter since it will be colder at night.
 
