@@ -20,3 +20,8 @@ This may mean that the shop could close earlier in the winter since it will be c
 ## Summary
 
 Looking at the temperatures for 2 months during different times of the year does provide good information. But deciding to leave your home and move to Hawaii based solely on this information may be a bit risky. I would suggest looking at the temperatures and precipitation for all 12 months, both separately and as a whole.
+
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
